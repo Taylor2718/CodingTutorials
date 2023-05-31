@@ -18,3 +18,5 @@ each skill/concept will have a link to a page where the student can learn the co
 That can be a video, or a document
 something important with codeed is that we approach the problem from behind, we start with project
 and teach the skills that are needed to complete the project. this way students learn to think like a programmer
+
+sid
